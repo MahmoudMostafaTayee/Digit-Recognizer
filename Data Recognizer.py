@@ -1,7 +1,7 @@
 # Digit recognizer competition
 # kaggle.com competition
 # https://www.kaggle.com/c/digit-recognizer/discussion/61480
-# solved using CNN with 99% accuracy
+# solved using CNN with 0.98407% accuracy
 
 # for any further questions, inquiries or communicating
 # Mahmoud Mostafa Tayee
